@@ -5,3 +5,7 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+    transactions = Transaction.create(
+        {amount: 150000.00,date:"5/7/17", desc: "purchase"}
+    );
