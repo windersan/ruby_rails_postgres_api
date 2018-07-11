@@ -40,4 +40,5 @@
     def transaction_params
       params.permit(:amount, :date, :desc)
     end
-  end
+  #end
+

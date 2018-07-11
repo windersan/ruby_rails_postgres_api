@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  originator: MyString
+  content: MyString
+  recipient: MyString
+  status: 1
+
+two:
+  originator: MyString
+  content: MyString
+  recipient: MyString
+  status: 1
